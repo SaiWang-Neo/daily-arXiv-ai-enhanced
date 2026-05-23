@@ -1,7 +1,34 @@
 arxiv:
   categories:  # 文章类型
-    - cs.CV
-    - cs.CL
+    - math.CV  # 复变量 (Complex Variables)
+    - cs.IT    # 信息论 (Information Theory)
+    - math.NA  # 数值分析 (Numerical Analysis)
+    - math.OC  # 优化与控制 (Optimization and Control)
+    - math.PR  # 概率论 (Probability)
+    - math.CO  # 组合数学 (Combinatorics)
+    - cs.AI    # 人工智能 (Artificial Intelligence)
+    - cs.CL    # 计算与语言/NLP (Computation and Language)
+    - cs.CC    # 计算复杂度 (Computational Complexity)
+    - cs.GT    # 计算机科学与博弈论 (Computer Science and Game Theory)
+    - cs.CV    # 计算机视觉与模式识别 (Computer Vision and Pattern Recognition)
+    - cs.CR    # 加密与安全 (Cryptography and Security)
+    - cs.DM    # 离散数学 (Discrete Mathematics)
+    - cs.DC    # 分布式、并行与集群计算 (Distributed, Parallel, and Cluster Computing)
+    - cs.FL    # 形式语言与自动机理论 (Formal Languages and Automata Theory)
+    - cs.GR    # 计算机图形学 (Computer Graphics)
+    - cs.IR    # 信息检索 (Information Retrieval)
+    - cs.LG    # 机器学习 (Machine Learning)
+    - cs.MA    # 多智能体系统 (Multi-Agent Systems)
+    - cs.NE    # 神经与进化计算 (Neural and Evolutionary Computing)
+    - eess.SY  # 系统与控制 (Systems and Control)
+    - q-bio.MN # 分子网络 (Molecular Networks)
+    - q-bio.NC # 定量认知神经科学 (Quantitative Cognitive Neuroscience)
+    - stat.CO  # 统计计算 (Computation)
+    - stat.ML  # 机器学习/统计 (Machine Learning)
+    - stat.ME  # 统计方法 (Methodology)
+    - math.ST  # 数理统计 (Mathematical Statistics)
+    - eess.IV  # 图像与视频处理 (Image and Video Processing)
+    - eess.SP  # 信号处理 (Signal Processing)
 
 llm:
   model_name: 'deepseek-chat'  # 使用的LLM模型

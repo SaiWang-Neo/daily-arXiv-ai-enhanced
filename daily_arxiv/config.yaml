@@ -31,4 +31,4 @@ arxiv:
     - eess.SP  # 信号处理 (Signal Processing)
 
 llm:
-  model_name: 'deepseek-chat'  # 使用的LLM模型
+  model_name: 'deepseek-v4-pro'  # 使用的LLM模型
